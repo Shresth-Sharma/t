@@ -32,7 +32,7 @@ back1=loadImage("background.jfif")
   a1 = loadSound("pikachu.mp3");
   a2 = loadSound("a2.mp3");
   a3 = loadSound("score.mp3")
-  a4 = loadSound("lose.mp3")
+  a4 = loadSound("Lose.mp3")
   a5 = loadSound("Win.mp3")
 }
 
